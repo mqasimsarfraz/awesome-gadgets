@@ -11,11 +11,9 @@
 - [Community Gadgets](#community-gadgets)
 - [Libraries & Tools](#libraries--tools)
 - [Gadget Development](#gadget-development)
-- [Tutorials](#tutorials)
 - [Talks](#talks)
 - [Blogs & Articles](#blogs--articles)
 - [Community](#community)
-- [Contributing](#contributing)
 
 ## Official Resources
 
@@ -131,10 +129,6 @@
 - [setup-ig](https://github.com/mqasimsarfraz/setup-ig) - GitHub Action to install the `ig` in CI/CD workflows.
 - [build-push-gadget](https://github.com/mqasimsarfraz/build-push-gadget) - GitHub Action to build, push, and optionally sign gadget OCI images with cosign.
 
-## Tutorials
-
-<!-- Add tutorials, guides, and examples here -->
-
 ## Talks
 
 - **[OpenSearch Con NA 2025 - From Kernel To Cloud: Building a Complete Open Source Observability Pipeline](https://opensearchconna2025.sched.com/event/25Gp0/from-kernel-to-cloud-building-a-complete-open-source-observability-pipeline-anirudha-jadhav-shenoy-pratik-gurudatt-amazon-web-services)** - Anirudha Jadhav Shenoy, Pratik Gurudatt ([video](https://www.youtube.com/watch?v=oWZnSS7mtK4), [slides](https://static.sched.com/hosted_files/opensearchconna2025/a8/From%20Kernel%20To%20Cloud_%20Building%20a%20Complete%20Open%20Source%20Observability%20Pipeline_final.pdf))
@@ -154,7 +148,7 @@
 
 ## Community
 
-- [Slack](https://pkg.go.dev/github.com/inspektor-gadget/inspektor-gadget)
+- [Slack](https://kubernetes.slack.com/messages/inspektor-gadget/)
 
 ## License
 
