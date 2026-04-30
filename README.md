@@ -20,7 +20,7 @@
 ## Official Resources
 
 - [Inspektor Gadget Documentation](https://inspektor-gadget.io/docs/latest/)
-- [Inspektor Gadget GitHub](https://www.inspektor-gadget.io/)
+- [Inspektor Gadget GitHub](https://github.com/inspektor-gadget/inspektor-gadget)
 - [Inspektor Gadget Website](https://inspektor-gadget.io/docs/latest/)
 
 ## Official Gadgets
