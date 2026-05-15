@@ -1,0 +1,59 @@
+name: Share a Gadget
+description: Suggest a gadget or resource to be added to the list.
+title: "[Gadget]: "
+labels: ["new-gadget"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing! Please fill out the details below so we can add the gadget to the list.
+
+  - type: input
+    id: name
+    attributes:
+      label: Gadget / Resource Name
+      placeholder: e.g., trace-ktls
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Link to the repository or resource.
+      placeholder: https://github.com/user/repo
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A short description of what the gadget does.
+      placeholder: Captures plaintext from kTLS connections using eBPF.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which section should this be added to?
+      options:
+        - Community Gadgets
+        - Libraries & Tools
+        - Gadget Development
+        - Talks
+        - Blogs & Articles
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any extra information (e.g., related blog post, demo video).
+      placeholder: Optional
+    validations:
+      required: false

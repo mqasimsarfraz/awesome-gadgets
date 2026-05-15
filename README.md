@@ -13,6 +13,7 @@
 - [Gadget Development](#gadget-development)
 - [Talks](#talks)
 - [Blogs & Articles](#blogs--articles)
+- [Contributing](#contributing)
 - [Community](#community)
 
 ## Official Resources
@@ -145,6 +146,10 @@
 - [Inspektor Gadget at Cloud Native Rejekts and KubeCon NA 2024!](https://www.inspektor-gadget.io/blog/2024/10/inspektor-gadget-kubecon-na) - Recap of IG at KubeCon NA 2024.
 - [Introduction to Gadgets](https://www.inspektor-gadget.io/blog/2024/09/introduction-to-gadgets) - Mauricio Vásquez Bernal - Comprehensive introduction to the gadget concept.
 - [Empowering Observability: The Advent of Image-Based Gadgets](https://www.inspektor-gadget.io/blog/2024/08/empowering-observability_the_advent_of_image_based_gadgets) - Chris Kühl - Deep dive into the image-based gadget architecture.
+
+## Contributing
+
+Your contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) to learn how to share your gadget via a Pull Request or an Issue.
 
 ## Community
 
